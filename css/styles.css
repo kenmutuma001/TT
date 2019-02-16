@@ -1,6 +1,7 @@
 .bkground {
   padding-bottom: 800px;
   background-image: url(file:///home/ken/Desktop/moringa-school-independent-projects/ken/TRIANGLE-TRACKER/image/logo.gif);
+  text-align: center;
 }
 .btn{
   margin-left: 350px;
@@ -42,7 +43,35 @@ button {
   color: darkorange;
   font-size: 20px;
   border-color: black;
+
 }
 #p {
   font-size: 25px;
+}
+.input{
+  height: 100px;
+  width:  600px;
+  font-size: 40px;
+  font-family: serif;
+  font-style: italic;
+  border-radius: 0.3em;
+
+}
+#button{
+  border-radius: 8em;
+  background-color: darkorange;
+  color: black;
+
+}
+#h1{
+  font-size: 45px;
+}
+.body{
+  background-color: rgba(0,0,0,0.4);
+  margin: 200px;
+  padding-bottom: 42px;
+  margin-left: 210px;
+  margin-right: 210px;
+  margin-top: 142px;
+  padding-top: 42px;
 }
