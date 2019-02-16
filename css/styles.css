@@ -1,0 +1,14 @@
+.bkground {
+  background-color: black;
+  padding-bottom: 400px;
+}
+.btn{
+  margin-left: 350px;
+  margin-top: 10px;
+  height: 60px;
+  width: 100px;
+  float: right;
+  margin-right: 124px;
+  background-color: darkorange;
+  border-radius: 1em;
+}
