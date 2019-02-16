@@ -1,6 +1,6 @@
 .bkground {
-  background-color: black;
-  padding-bottom: 400px;
+  padding-bottom: 800px;
+  background-image: url(file:///home/ken/Desktop/moringa-school-projects/ken/TRIANGLE-TRACKER/image/logo.gif);
 }
 .btn{
   margin-left: 350px;
@@ -38,10 +38,11 @@
 button {
   height: 250px;
   width: 650px;
-  border-radius: 0.25em;
+  border-radius: 3.25em;
   color: darkorange;
-  border-top: -500px;
   font-size: 20px;
   border-color: black;
-  padding: orange;
+}
+#p {
+  font-size: 25px;
 }
