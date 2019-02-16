@@ -28,3 +28,13 @@
 .tributton {
   float: right;
 }
+button {
+  height: 150px;
+  width: 550px;
+  border-radius: 0.25em;
+  color: darkorange;
+  border-top: -500px;
+  font-size: 20px;
+  border-color: black;
+  padding: orange;
+}
