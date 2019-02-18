@@ -3,7 +3,6 @@ function tracker(){
   var sideB=parseInt(document.getElementById("b").value);
   var sideC=parseInt(document.getElementById("c").value);
   var ans = document.getElementById('alert');
-  var no = document.getElementById("no");
   var one = sideA + sideB;
   var two = sideA + sideC;
   var three = sideB + sideC;
