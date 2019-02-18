@@ -2,7 +2,7 @@
 ### AUTHOR
 The author is Kennedy Mutuma.
 ## DESCRIPTION
-The project lets user know what type of triangle they have by inputting their measurements that is if their measurements amount to any triangle at all
+The project lets user know what type of triangle they have by inputting their measurements that is if their measurements  amount to any triangle at all
 ## SET-UP INSTRUCTIONS
 #### BDD
 BEHAVIOUR                                     INPUT                   OUTPUT
