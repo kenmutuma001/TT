@@ -9,7 +9,6 @@ function tracker(){
 
   if(one <= sideC || two <= sideB || three <= sideA) {
     ans.innerHTML="NOT A TRIANGLE";
-    no.hide(1000)
   }
   else if(sideA===sideB && sideB===sideC){
     ans.innerHTML="AN EQUILATERAL TRIANGLE";
