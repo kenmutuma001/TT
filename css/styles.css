@@ -1,5 +1,5 @@
 .bkground {
-  padding-bottom: 800px;
+  padding-bottom: 300px;
   background-image: url(file:///home/ken/Desktop/moringa-school-independent-projects/ken/TRIANGLE-TRACKER/image/logo.gif);
   text-align: center;
 }
@@ -74,4 +74,11 @@ button {
   margin-right: 210px;
   margin-top: 142px;
   padding-top: 42px;
+}
+#alert{
+  font-size: 40px;
+  font-family: cursive;
+}
+ol{
+  float: left;
 }
